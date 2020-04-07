@@ -1,2 +1,3 @@
-a.txt
-b.log
+*.txt
+*.log
+
